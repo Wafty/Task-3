@@ -1,5 +1,5 @@
---temp-output:C:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\obj\Debug\netcoreapp1.0\
---out:C:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\bin\Debug\netcoreapp1.0\Task 3.dll
+--temp-output:c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\obj\Debug\netcoreapp1.0\
+--out:c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\bin\Debug\netcoreapp1.0\Task 3.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -87,4 +87,5 @@
 --reference:C:\Users\Ashle\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Ashle\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Ashle\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\Program.cs
+c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\Program.cs
+c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\Surfaces.cs

@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"C:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\bin\Debug\netcoreapp1.0\Task 3.dll"
+"c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\bin\Debug\netcoreapp1.0\Task 3.dll"
 -r:"C:\Users\Ashle\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\Ashle\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\Ashle\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,5 @@
 -r:"C:\Users\Ashle\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Ashle\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Ashle\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"C:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\Program.cs"
+"c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\Program.cs"
+"c:\Users\Ashle\UNI WORK\Object Orientated Programming\Assignment 1\Task 3\Surfaces.cs"
